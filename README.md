@@ -7,5 +7,6 @@ Here I've used a number of different technologies and features to build my webpa
 - Light and Dark mode
 - SVG responsive background
 - Responsive layout design
+  - Utilization of media queries
 - CSS animation
 - Fully custom CSS layout
