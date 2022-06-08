@@ -22,7 +22,7 @@ const Intro = () => {
             I develop and design software through a creative focus on modern design with usability and functionality at the forefront.
           </p>
         </div>
-        <svg
+        {/* <svg
           width="75"
           height="75"
           viewBox="0 0 75 75"
@@ -77,7 +77,7 @@ const Intro = () => {
               />
             </g>
           </g>
-        </svg>
+        </svg> */}
       </div>
       <div className='intro-right'>
         <div className='intro-bg'></div>
